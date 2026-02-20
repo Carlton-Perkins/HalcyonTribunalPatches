@@ -1,0 +1,26 @@
+[
+  {
+    "op": "remove",
+    "path": "/1/ingredients/1/inputs/3/allowedVariants/14",
+    "side": "server",
+    "file": "expandedfoods:recipes/kneading/dumpling.json"
+  },
+  {
+    "op": "remove",
+    "path": "/1/ingredients/1/inputs/7",
+    "side": "server",
+    "file": "expandedfoods:recipes/kneading/dumpling.json"
+  },
+  {
+    "op": "remove",
+    "path": "/3/ingredients/1/inputs/3/allowedVariants/14",
+    "side": "server",
+    "file": "expandedfoods:recipes/kneading/dumpling.json"
+  },
+  {
+    "op": "remove",
+    "path": "/3/ingredients/1/inputs/7",
+    "side": "server",
+    "file": "expandedfoods:recipes/kneading/dumpling.json"
+  }
+]

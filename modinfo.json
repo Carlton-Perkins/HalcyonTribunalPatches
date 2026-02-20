@@ -1,0 +1,15 @@
+{
+  "type": "content",
+  "modid": "halcyontribunalpatches",
+  "name": "Halcyon Tribunal Patches",
+  "authors": [
+    "Carltonrp"
+  ],
+  "description": "Various patches and modifications to `The Halcyon Tribunal` Server",
+  "website": "https://github.com/Carlton-Perkins/HalcyonTribunalPatches",
+  "dependencies": {
+    "expandedfoods": "2.0.0-dev.1",
+    "wildcraftfruit": "1.4.5"
+  },
+  "version": "1.0.0"
+}
